@@ -1,0 +1,12 @@
+.img{
+    background:linear-gradient(#cf0707, orange, white), url(./background\ photo.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-blend-mode: screen;
+    background-size: contain;
+
+    
+}
+div{
+    height: 700px;
+}

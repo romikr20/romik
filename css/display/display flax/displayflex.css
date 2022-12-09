@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+section
+{
+    background-color: rgba(182, 223, 47, 0.645);
+}
+.conteiner{
+    width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    /* justify-content: space-evenly; */
+    /* justify-content: space-around; */
+}
+.cart{
+    background-color: rgb(83, 31, 156);
+    width: 20%;
+    text-align: center;
+
+}
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    margin: 5px;
+    display: inline-block;
+}
+.box:hover{
+    background-color: white;
+}
+
+ ul li{
+    display: inline-block;
+    margin: 0 100px;
+ }
+ ul{
+    text-align: center;
+ }
+ img{
+    width: 100px;
+    height: 100px;
+ }

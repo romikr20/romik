@@ -1,0 +1,11 @@
+.container{
+    width: 100%;
+    margin: 25px 0 0 auto;
+}
+
+.box{
+background-color: white;
+    width: 24%;
+    display: inline-block;
+    margin: 0 auto;
+}
